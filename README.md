@@ -1,6 +1,9 @@
-# easyenglish
+# APP - Cursos
 
-Easy English
+Aplicativo para cursos.
+Integrado com:
+- API-CURSOS (repositório)
+- SISTEMA-CURSOS (repositório)
 
 ## Getting Started
 
